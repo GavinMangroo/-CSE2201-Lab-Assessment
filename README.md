@@ -1,4 +1,4 @@
-# -CSE2201-Lab-Assessment
+# CSE2201-Lab-Assessment
 
 This website was done as a form of assessment for CSE2201 [Internet Computing] course at the University of Guyana.
 
